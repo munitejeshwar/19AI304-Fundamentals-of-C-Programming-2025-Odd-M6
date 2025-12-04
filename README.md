@@ -61,7 +61,7 @@ int main()
 }
 ```
 # Output:
-<img width="878" height="276" alt="image" src="https://github.com/user-attachments/assets/03628a7b-3414-410e-9aab-c4d4b5e22c29" />
+<img width="510" height="396" alt="image" src="https://github.com/user-attachments/assets/9a4c2352-1c90-4c7a-bf5c-b73817836d98" />
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
@@ -171,7 +171,7 @@ int main() {
 }
 ```
 # Output:
-<img width="975" height="558" alt="image" src="https://github.com/user-attachments/assets/f453ce5b-6739-4cf0-bd39-5446db94c725" />
+![Uploading image.png…]()
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
